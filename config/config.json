@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "akbar",
+    "password": "akbarpostgre",
+    "database": "basic_auth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "akbar",
+    "password": "akbarpostgre",
+    "database": "basic_auth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "akbar",
+    "password": "akbarpostgre",
+    "database": "basic_auth",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
