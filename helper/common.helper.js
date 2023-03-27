@@ -16,10 +16,6 @@ function comparePass(pass, hashPass) {
 
 
 
-
-
-
-
 module.exports = {
     generatePass,
     comparePass
